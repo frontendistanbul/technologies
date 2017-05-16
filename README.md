@@ -1,4 +1,4 @@
-# Türkiye'de hangi şirketler hangi frontend teknolojilerni kullanıyor
+# Türkiye'de hangi şirketler hangi frontend teknolojilerini kullanıyor?
 
 | Şirket Adı        | Şehir            | Web Adresi           | Kullandığı Teknolojiler                            |
 | ------------------|:----------------:| --------------------:| --------------------------------------------------:|
