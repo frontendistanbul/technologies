@@ -10,3 +10,4 @@
 | Put.io            | İstanbul         | https://put.io    | React, Redux, ImmutableJS, Webpack, Enzyme, Jest, LESS
 | BOdev Office            | İstanbul         | https://bodevoffice.com   | Vue.js, Angular.js, jQuery, SCSS, Bootstrap, Webpack, Gulp
 | Sigortaci123.com | İstanbul | https://sigortaci123.com | AngularJS, jQuery, SCSS, Bootstrap, React, Bower, CoffeeScript
+| Brickly | İstanbul | http://brickly.io | React, Redux, Node js, Webpack, Less (isomorphic style), Enzyme, Jest, Flow, Gulp
