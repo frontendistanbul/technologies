@@ -9,3 +9,4 @@
 | Adphorus            | İstanbul         | http://adphorus.com    | React, Redux, Saga, Webpack, PostCSS
 | Put.io            | İstanbul         | https://put.io    | React, Redux, ImmutableJS, Webpack, Enzyme, Jest, LESS
 | BOdev Office            | İstanbul         | https://bodevoffice.com   | Vue.js, Angular.js, jQuery, SCSS, Bootstrap, Webpack, Gulp
+| Sigortaci123.com | İstanbul | https://sigortaci123.com | AngularJS, jQuery, SCSS, Bootstrap, React, Bower, CoffeeScript
