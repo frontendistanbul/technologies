@@ -12,3 +12,7 @@
 | iyzico           | İstanbul | https://iyzico.com       | React, Redux, Node.js, Webpack, GraphQL, Apollo Client, Styled-Components, Jest, Enzyme, Flow                                                      |
 | Put.io           | İstanbul | https://put.io           | React, Redux, ImmutableJS, Webpack, Enzyme, Jest, LESS                                                                                             |
 | Sigortaci123.com | İstanbul | https://sigortaci123.com | AngularJS, jQuery, SCSS, Bootstrap, React, Bower, CoffeeScript                                                                                     |
+
+## Uyarı!
+
+Liste alfabetik olarak sıralanmıştır. Lütfen yeni ekleme yaparken alfabetik sıraya göre ekleme yapınız.
