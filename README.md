@@ -6,8 +6,8 @@
 | Atölye15         | İzmir    | https://atolye15.com     | React, Redux, redux-thunk, React-Native, Flow, Node.js, Webpack, Gulp, Jest, Enzyme, SCSS, styled-components, ESLint, Prettier, Living Style Guide |
 | BOdev Office     | İstanbul | https://bodevoffice.com  | Vue.js, Angular.js, jQuery, SCSS, Bootstrap, Webpack, Gulp                                                                                         |
 | Brickly          | İstanbul | http://brickly.io        | React, Redux, Node js, Webpack, Less (isomorphic style), Enzyme, Jest, Flow, Gulp                                                                  |
-| Enpies.com       | İstanbul | https://enpies.com       | React, Redux,  Webpack, UglifyJS, SCSS    																																																					|
-| finartz.com      | İstanbul | https://finartz.com       | Vue.js, Vuex, Webpack, Gulp , UglifyJS, SCSS    																																																					|
+| Enpies.com       | İstanbul | https://enpies.com       | React, Redux,  Webpack, UglifyJS, SCSS    															                                                                        |
+| Finartz     | İstanbul | https://finartz.com       | Vue.js, Vuex, Webpack, Gulp , UglifyJS, SCSS    																																																					|
 | Gaaraj           | İstanbul | https://gaaraj.com       | jQuery, Grunt, Gulp, SCSS, LESS, AngularJS, Webpack, Bootstrap, Ionic                                                                              |
 | Hobium           | İstanbul | https://hobium.com       | Vue.js, Vuex, Lodash, jQuery, Node.js, Webpack, Gulp, Grunt, SCSS                                                                                  |
 | House of Apps    | İstanbul | https://houseofapps.com  | Django Templates, React Native, ReactJS, MobX, jQuery, VueJS                                                                                       |
