@@ -15,7 +15,7 @@
 | Macellan         | İstanbul | https://macellan.net     | Vue.js, React, React Native, Node.js, Webpack, Gulp, ESLint, jQuery                                                                                |
 | Put.io           | İstanbul | https://put.io           | React, Redux, ImmutableJS, Webpack, Enzyme, Jest, LESS                                                                                             |
 | Sigortaci123.com | İstanbul | https://sigortaci123.com | AngularJS, jQuery, SCSS, Bootstrap, React, Bower, CoffeeScript                                                                                     |
-| T2 | Ankara | http://www.t2.com.tr/ | React, React Native, React Templates, Redux, Jumpsuit, Webpack, Angular, jQuery, Bootstrap, LESS, SCSS, Enzyme, JSF, Primefaces, PrimeNG, Vaadin |
+| T2 | Ankara | http://www.t2.com.tr/ | React, React Native, React Templates, Redux, Jumpsuit, Webpack, Angular, jQuery, Bootstrap, LESS, SCSS, Enzyme, JSF, Primefaces, PrimeNG, Vaadin                                                                                     |
 
 ## Uyarı!
 
