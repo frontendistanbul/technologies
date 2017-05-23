@@ -8,6 +8,7 @@
 | Bilgetech        | İstanbul | http://bilgetech.com.tr  | Angular, Typescript, Node.js, Webpack, Gulp, Npm Scripts, Karma, Jasmine, SCSS, Stylus, Pug, TSLint                                                |
 | BOdev Office     | İstanbul | https://bodevoffice.com  | Vue.js, Angular.js, jQuery, SCSS, Bootstrap, Webpack, Gulp                                                                                         |
 | Brickly          | İstanbul | http://brickly.io        | React, Redux, Node js, Webpack, Less (isomorphic style), Enzyme, Jest, Flow, Gulp                                                                  |
+| EFT Software     | İstanbul, Bursa, Antalya    | https://eftsoftware.com     | React, Backbone, Angular, Redux, Flux, redux-saga, redux-thunk, ImmutableJS, Typescript, Node.js, Webpack, Gulp, Jest, Enzyme, SCSS, ESLint, 	 |
 | Enpies.com       | İstanbul | https://enpies.com       | React, Redux,  Webpack, UglifyJS, SCSS                                                                                                             |
 | Finartz          | İstanbul | https://finartz.com      | Vue.js, Vuex, Webpack, Gulp , UglifyJS, SCSS                                                                                                       |
 | Gaaraj           | İstanbul | https://gaaraj.com       | jQuery, Grunt, Gulp, SCSS, LESS, AngularJS, Webpack, Bootstrap, Ionic                                                                              |
