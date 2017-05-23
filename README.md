@@ -13,8 +13,9 @@
 | Hobium           | İstanbul | https://hobium.com       | Vue.js, Vuex, Lodash, jQuery, Node.js, Webpack, Gulp, Grunt, SCSS                                                                                  |
 | House of Apps    | İstanbul | https://houseofapps.com  | Django Templates, React Native, ReactJS, MobX, jQuery, VueJS                                                                                       |
 | iyzico           | İstanbul | https://iyzico.com       | React, Redux, Node.js, Webpack, GraphQL, Apollo Client, Styled-Components, Jest, Enzyme, Flow                                                      |
-| Macellan         | İstanbul | https://macellan.net     | Vue.js, React, React Native, Node.js, Webpack, Gulp, ESLint, jQuery
-| Otel.com         | İstanbul | https://otel.com         | React, Flux, Gulp, Browserify, UglifyJS, JsHint, LESS, jQuery                                                                                |
+| Macellan         | İstanbul | https://macellan.net     | Vue.js, React, React Native, Node.js, Webpack, Gulp, ESLint, jQuery                                                                                |
+| Otel.com         | İstanbul | https://otel.com         | React, Flux, Gulp, Browserify, UglifyJS, JsHint, LESS, jQuery                                                                                      |
+| omg!medya        | İstanbul | http://omgmedya.com      | Vue.js, React, Gulp, Webpack, Turbolinks, UglifyJS, jQuery                                                                                         |
 | Put.io           | İstanbul | https://put.io           | React, Redux, ImmutableJS, Webpack, Enzyme, Jest, LESS                                                                                             |
 | Sigortaci123.com | İstanbul | https://sigortaci123.com | AngularJS, jQuery, SCSS, Bootstrap, React, Bower, CoffeeScript                                                                                     |
 | T2 | Ankara | http://www.t2.com.tr/ | React, React Native, React Templates, Redux, Jumpsuit, Webpack, Angular, jQuery, Bootstrap, LESS, SCSS, Enzyme, JSF, Primefaces, PrimeNG, Vaadin                                                                                     |
