@@ -21,6 +21,7 @@
 | Pembe Panjur           | İstanbul | http://www.pembepanjur.com           | Vue.js                                                                                             |
 | Protel           | İstanbul | http://protel.com.tr     | React, Redux, Vue (Vuex), Webpack, Rollup, GraphQL, GraphQL.js, Sass, CoffeeScript, Ruby on Rails, ESLint |
 | Put.io           | İstanbul | https://put.io           | React, Redux, ImmutableJS, Webpack, Enzyme, Jest, LESS                                                                                             |
+| Segmentify | İstanbul | https://segmentify.com | React, Redux, Bower, SCSS, Webpack, Node.js, ESLint
 | Sigortaci123.com | İstanbul | https://sigortaci123.com | AngularJS, jQuery, SCSS, Bootstrap, React, Bower, CoffeeScript                                                                                     |
 | T2 | Ankara | http://www.t2.com.tr/ | React, React Native, React Templates, Redux, Jumpsuit, Webpack, Angular, jQuery, Bootstrap, LESS, SCSS, Enzyme, JSF, Primefaces, PrimeNG, Vaadin                                                                                     |
 
