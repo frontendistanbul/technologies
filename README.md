@@ -25,7 +25,7 @@
 | Segmentify | İstanbul | https://segmentify.com | React, Redux, Bower, SCSS, Webpack, Node.js, ESLint |
 | Sigortaci123.com | İstanbul | https://sigortaci123.com | AngularJS, jQuery, SCSS, Bootstrap, React, Bower, CoffeeScript                                                                                     |
 | T2 | Ankara | http://www.t2.com.tr/ | React, React Native, React Templates, Redux, Jumpsuit, Webpack, Angular, jQuery, Bootstrap, LESS, SCSS, Enzyme, JSF, Primefaces, PrimeNG, Vaadin                                                                                     |
-
+| Vispera       |  İstanbul   | http://vispera.co/  | React, Redux, Saga, Thunk, Webpack, SASS
 ## Uyarı!
 
 Liste alfabetik olarak sıralanmıştır. Lütfen yeni ekleme yaparken alfabetik sıraya göre ekleme yapınız.
