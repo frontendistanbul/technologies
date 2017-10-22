@@ -11,6 +11,7 @@
 | EFT Software     | İstanbul | https://eftsoftware.com     | React, Angular, Redux, redux-saga, RxJS, ImmutableJS, Typescript, Node.js, Webpack, Jest, Enzyme, SCSS, ESLint, Prettier 	 |
 | Emlakjet.com     | İstanbul | http://emlakjet.com      | Angular, React, Redux, ImmutableJS, Lodash, Webpack, Browserify, Gulp, Stylus |
 | Enpies.com       | İstanbul | https://enpies.com       | React, Redux,  Webpack, UglifyJS, SCSS                                                                                                             |
+| Epigra       | İstanbul | https://epigra.com       | Vue.js, React, jQuery, Node.js, Laravel Mix, Webpack, Gulp, Bootstrap, SCSS |
 | Finartz          | İstanbul | https://finartz.com      | Vue.js, Vuex, Webpack, Gulp , UglifyJS, SCSS                                                                                                       |
 | Gaaraj           | İstanbul | https://gaaraj.com       | jQuery, Grunt, Gulp, SCSS, LESS, AngularJS, Webpack, Bootstrap, Ionic                                                                              |
 | Hobium           | İstanbul | https://hobium.com       | Vue.js, Vuex, Lodash, jQuery, Node.js, Webpack, Gulp, Grunt, SCSS                                                                                  |
