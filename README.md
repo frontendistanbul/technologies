@@ -14,6 +14,7 @@
 | Epigra       | İstanbul | https://epigra.com       | Vue.js, React, jQuery, Node.js, Laravel Mix, Webpack, Gulp, Bootstrap, SCSS |
 | Finartz          | İstanbul | https://finartz.com      | Vue.js, Vuex, Webpack, Gulp , UglifyJS, SCSS                                                                                                       |
 | Gaaraj           | İstanbul | https://gaaraj.com       | jQuery, Grunt, Gulp, SCSS, LESS, AngularJS, Webpack, Bootstrap, Ionic                                                                              |
+| GülenAyva        | İstanbul | http://gulenayva.com     | SCSS, Angular, Webpack, React-Native, React-Redux (with SSR), Phalcon, Swift, Java, Express, Firebase                                              |
 | Hobium           | İstanbul | https://hobium.com       | Vue.js, Vuex, Lodash, jQuery, Node.js, Webpack, Gulp, Grunt, SCSS                                                                                  |
 | House of Apps    | İstanbul | https://houseofapps.com  | Django Templates, React Native, ReactJS, MobX, jQuery, VueJS                                                                                       |
 | iyzico           | İstanbul | https://iyzico.com       | React, Redux, Node.js, Webpack, GraphQL, Apollo Client, Styled-Components, Jest, Enzyme, Flow, Prettier                                                      |
