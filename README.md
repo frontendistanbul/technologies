@@ -31,6 +31,7 @@
 | Twentify | İstanbul | http://www.twentify.com/ | React, Redux, Saga, SCSS, Webpack, ESLint |
 | Vispera       |  İstanbul   | http://vispera.co/  | React, Redux, Saga, Thunk, Webpack, SASS                                                                                     |
 | Webridge       |  İzmir   | http://webridge.co  | Node.js, Sails, React, React Native, Redux, Webpack, SCSS, Lodash, Axios
+| Yemeksepeti | İstanbul | https://yemek.com | React, Redux, jQuery, Node.js, Webpack, Sass |
 
 ## Uyarı!
 
