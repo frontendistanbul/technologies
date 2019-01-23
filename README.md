@@ -27,6 +27,7 @@
 | Scotty | İstanbul | https://scotty.app | React, React Native, Redux, GraphQL, Apollo Client, NodeJS, Webpack, Styled-Components, Jest, Enzyme, ESlint                                                                            |
 | Segmentify | İstanbul | https://segmentify.com | React, Redux, Bower, SCSS, Webpack, Node.js, ESLint |
 | Sigortaci123.com | İstanbul | https://sigortaci123.com | AngularJS, jQuery, SCSS, Bootstrap, React, Bower, CoffeeScript                                                                                     |
+| Smartiks | İstanbul | https://www.smartiks.com.tr/ | Vue.js (Vuex), Nuxt.js, SCSS (CSS3), HTML5, GraphQL, Apollo Client, React Native (Redux), mxGraph, Webpack |
 | T2 | Ankara | http://www.t2.com.tr/ | React, React Native, React Templates, Redux, Jumpsuit, Webpack, Angular, jQuery, Bootstrap, LESS, SCSS, Enzyme, JSF, Primefaces, PrimeNG, Vaadin                                                                                     |
 | Twentify | İstanbul | http://www.twentify.com/ | React, Redux, Saga, SCSS, Webpack, ESLint |
 | Vispera       |  İstanbul   | http://vispera.co/  | React, Redux, Saga, Thunk, Webpack, SASS                                                                                     |
