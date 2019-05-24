@@ -17,6 +17,7 @@
 | Hobium           | İstanbul | https://hobium.com       | Vue.js, Vuex, Lodash, jQuery, Node.js, Webpack, Gulp, Grunt, SCSS                                                                                  |
 | House of Apps    | İstanbul | https://houseofapps.com  | Django Templates, React Native, ReactJS, MobX, jQuery, VueJS                                                                                       |
 | iyzico           | İstanbul | https://iyzico.com       | React, Redux, Node.js, Webpack, GraphQL, Apollo Client, Styled-Components, Jest, Enzyme, Flow, Prettier                                                      |
+| Kunduz           | İstanbul | https://kunduz.com       | React, Typescript, Webpack, Scss, Bootstrap, Prettier
 | Macellan         | İstanbul | https://macellan.net     | Vue.js, React, React Native, Node.js, Webpack, Gulp, ESLint, jQuery                                                                                |
 | omg!medya        | İstanbul | http://omgmedya.com      | Vue.js, React, Gulp, Webpack, Turbolinks, UglifyJS, jQuery                                                                                         |
 | Otel.com         | İstanbul | https://otel.com         | React, Flux, Gulp, Browserify, UglifyJS, JsHint, LESS, jQuery                                                                                      |
