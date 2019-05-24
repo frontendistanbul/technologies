@@ -5,6 +5,7 @@
 | Adphorus         | İstanbul | http://adphorus.com      | React, Redux, Saga, Webpack, PostCSS                                                                                                               |
 | Arete Consulting | İstanbul | http://arete.com.tr      | Node.js, Webpack, Gulp, Angular, JQuery, Browserify                                                                                                              |
 | Atölye15         | İzmir    | https://atolye15.com     | React, Redux, redux-thunk, React-Native, Flow, Node.js, Webpack, Gulp, Jest, Enzyme, SCSS, styled-components, ESLint, Prettier, Living Style Guide |
+| Bermuda         | İstanbul    | http://bermuda.com.tr     | React, Redux, redux-thunk, Node.js, Webpack, Gulp,  SCSS, ESLint, Prettier, Bootstrap, Lodash |
 | Bilgetech        | İstanbul | http://bilgetech.com.tr  | Angular, Typescript, Node.js, Webpack, Gulp, Npm Scripts, Karma, Jasmine, SCSS, Stylus, Pug, TSLint                                                |
 | BOdev Office     | İstanbul | https://bodevoffice.com  | Vue.js, Angular.js, jQuery, SCSS, Bootstrap, Webpack, Gulp                                                                                         |
 | Brickly          | İstanbul | http://brickly.io        | React, Redux, Node js, Webpack, Less (isomorphic style), Enzyme, Jest, Flow, Gulp                                                                  |
