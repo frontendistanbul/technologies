@@ -23,6 +23,7 @@
 | Macellan         | İstanbul | https://macellan.net     | Vue.js, React, React Native, Node.js, Webpack, Gulp, ESLint, jQuery                                                                                |
 | omg!medya        | İstanbul | http://omgmedya.com      | Vue.js, React, Gulp, Webpack, Turbolinks, UglifyJS, jQuery                                                                                         |
 | Otel.com         | İstanbul | https://otel.com         | React, Flux, Gulp, Browserify, UglifyJS, JsHint, LESS, jQuery                                                                                      |
+| Pankod           | İstanbul | http://www.pankod.com           | TypeScript, React, React Native, Redux, Next.js, Svelte, Bit, Scss, Styled Components, Webpack, Jest & Enzyme, ESLint                                                                                               |
 | Pembe Panjur           | İstanbul | http://www.pembepanjur.com           | Vue.js                                                                                             |
 | Protel           | İstanbul | http://protel.com.tr     | React, Redux, Vue (Vuex), Webpack, Rollup, GraphQL, GraphQL.js, Sass, CoffeeScript, Ruby on Rails, ESLint |
 | Put.io           | İstanbul | https://put.io           | React, Redux, ImmutableJS, Webpack, Enzyme, Jest, LESS                                                                                             |
