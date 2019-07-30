@@ -10,7 +10,7 @@
 | BOdev Office     | İstanbul | https://bodevoffice.com  | Vue.js, Angular.js, jQuery, SCSS, Bootstrap, Webpack, Gulp                                                                                         |
 | Brickly          | İstanbul | http://brickly.io        | React, Redux, Node js, Webpack, Less (isomorphic style), Enzyme, Jest, Flow, Gulp                                                                  |
 | Clevel          | İstanbul | http://clevel.team        | Vue.js, Vuex, Node.js, Webpack, Gulp, TypeScript, SASS, ESLint, WebGL, Canvas                                                                   |
-| EFT Software     | İstanbul | https://eftsoftware.com     | React, Angular, Redux, redux-saga, RxJS, ImmutableJS, Typescript, Node.js, Webpack, Jest, Enzyme, SCSS, ESLint, Prettier 	 |
+| Codespace     | İstanbul | https://codespacedev.com     | Angular, RxJS, React, Redux, NodeJS, GraphQL, Apollo, Typescript, Webpack, Jest, Enzyme, Prettier 	 |
 | Emlakjet.com     | İstanbul | http://emlakjet.com      | Angular, React, Redux, ImmutableJS, Lodash, Webpack, Browserify, Gulp, Stylus |
 | Enpies.com       | İstanbul | https://enpies.com       | React, Redux,  Webpack, UglifyJS, SCSS                                                                                                             |
 | Epigra       | İstanbul | https://epigra.com       | Vue.js, React, jQuery, Node.js, Laravel Mix, Webpack, Gulp, Bootstrap, SCSS |
