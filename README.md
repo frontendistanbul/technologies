@@ -2,6 +2,7 @@
 
 | Şirket Adı       | Şehir    | Web Adresi               | Kullandığı Frontend Teknolojileri                                                                                                                  |
 |------------------|----------|--------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| 90Pixel          | İzmir    | https://90pixel.com/      | React, React-Native, Next.js, Mobx, SCSS, Gulp, NodeJS, ESLint, Prettier                                                                                                               |
 | Adphorus         | İstanbul | http://adphorus.com      | React, Redux, Saga, Webpack, PostCSS                                                                                                               |
 | Arete Consulting | İstanbul | http://arete.com.tr      | Node.js, Webpack, Gulp, Angular, JQuery, Browserify                                                                                                              |
 | Atölye15         | İzmir    | https://atolye15.com     | React, Redux, redux-thunk, React-Native, Flow, Node.js, Webpack, Gulp, Jest, Enzyme, SCSS, styled-components, ESLint, Prettier, Living Style Guide |
