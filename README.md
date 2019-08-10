@@ -23,7 +23,8 @@
 | House of Apps    | İstanbul | https://houseofapps.com  | Django Templates, React Native, ReactJS, MobX, jQuery, VueJS                                                                                       |
 | iyzico           | İstanbul | https://iyzico.com       | React, Redux, Node.js, Webpack, GraphQL, Apollo Client, Styled-Components, Jest, Enzyme, Flow, Prettier                                                      |
 | Kunduz           | İstanbul | https://kunduz.com       | React, Typescript, Webpack, Scss, Bootstrap, Prettier
-| Macellan         | İstanbul | https://macellan.net     | Vue.js, React, React Native, Node.js, Webpack, Gulp, ESLint, jQuery                                                                                |
+| Macellan         | İstanbul | https://macellan.net     | Vue.js, React, React Native, Node.js, Webpack, Gulp, ESLint, jQuery 
+| MonoFor, Inc        | İstanbul | https://monofor.com           | VueJS, Vuex, Node.js, Webpack, ESLint, SCSS, Prettier, jQuery                                                                             |
 | Nuevo Softwarehouse | İstanbul | http://www.nuevo.com.tr | React, TypeScript, Redux, Gulp, Webpack, Styled-Components, Scss, jQuery, TSLint, ESLint                                                         |
 | omg!medya        | İstanbul | http://omgmedya.com      | Vue.js, React, Gulp, Webpack, Turbolinks, UglifyJS, jQuery                                                                                         |
 | Otel.com         | İstanbul | https://otel.com         | React, Flux, Gulp, Browserify, UglifyJS, JsHint, LESS, jQuery                                                                                      |
