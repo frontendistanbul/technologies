@@ -16,6 +16,7 @@
 | Emlakjet.com     | İstanbul | http://emlakjet.com      | Angular, React, Redux, ImmutableJS, Lodash, Webpack, Browserify, Gulp, Stylus |
 | Enpies.com       | İstanbul | https://enpies.com       | React, Redux,  Webpack, UglifyJS, SCSS                                                                                                             |
 | Epigra       | İstanbul | https://epigra.com       | Vue.js, React, jQuery, Node.js, Laravel Mix, Webpack, Gulp, Bootstrap, SCSS |
+| Fabrikod       | İstanbul | http://fabrikod.com/       | Vue.js, Nuxt.JS , Laravel, Webpack, Gulp, Bootstrap, SCSS, Node.js |
 | Finartz          | İstanbul | https://finartz.com      | Vue.js, Vuex, Webpack, Gulp , UglifyJS, SCSS, TypeScript                                                                                                       |
 | Gaaraj           | İstanbul | https://gaaraj.com       | jQuery, Grunt, Gulp, SCSS, LESS, AngularJS, Webpack, Bootstrap, Ionic                                                                              |
 | Hepsiburada           | İstanbul | https://hepsiburada.com       | React, Redux, Saga, Node.js, Webpack, Enzyme, Saga, Immutable, TypeScript, Knockout, Gulp, Bower, SCSS        |
