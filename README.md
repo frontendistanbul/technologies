@@ -19,6 +19,7 @@
 | Fabrikod       | İstanbul | http://fabrikod.com/       | Vue.js, Nuxt.JS , Laravel, Webpack, Gulp, Bootstrap, SCSS, Node.js |
 | Finartz          | İstanbul | https://finartz.com      | Vue.js, Vuex, Webpack, Gulp , UglifyJS, SCSS, TypeScript                                                                                                       |
 | Gaaraj           | İstanbul | https://gaaraj.com       | jQuery, Grunt, Gulp, SCSS, LESS, AngularJS, Webpack, Bootstrap, Ionic                                                                              |
+| GittiGidiyor           | İstanbul | https://gittigidiyor.com       | React, Styled-Components, Next.js, Node.js, Webpack, Apollo, GraphQL, Immutable.js, Flow, Jest, Testing-Library, Cypress                                                                            |
 | Hepsiburada           | İstanbul | https://hepsiburada.com       | React, Redux, Saga, Node.js, Webpack, Enzyme, Saga, Immutable, TypeScript, Knockout, Gulp, Bower, SCSS        |
 | Hobium           | İstanbul | https://hobium.com       | Vue.js, Vuex, Lodash, jQuery, Node.js, Webpack, Gulp, Grunt, SCSS                                                                                  |
 | House of Apps    | İstanbul | https://houseofapps.com  | Django Templates, React Native, ReactJS, MobX, jQuery, VueJS                                                                                       |
