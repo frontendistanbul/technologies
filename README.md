@@ -7,6 +7,7 @@
 [next.js]: https://github.com/zeit/next.js
 [webpack]: https://github.com/webpack/webpack
 [scss]: https://github.com/sass/sass
+[sass]: https://github.com/sass/sass
 [mobx]: https://github.com/mobxjs/mobx
 [gulp]: https://github.com/gulpjs/gulp
 [eslint]: https://github.com/eslint/eslint
@@ -29,6 +30,20 @@
 [pug]: https://github.com/pugjs/pug
 [tslint]: https://github.com/palantir/tslint
 [vue.js]: https://github.com/vuejs/vue
+[less]: https://github.com/less/less.js
+[vuex]: https://github.com/vuejs/vuex
+[webgl]: https://github.com/KhronosGroup/WebGL
+[canvas]: https://github.com/instructure/canvas-lms
+[graphql]: https://github.com/graphql/graphql-js
+[apollo client]: https://github.com/apollographql/apollo-client
+[immutable.js]: https://github.com/immutable-js/immutable-js
+[uglifyjs]: https://github.com/mishoo/UglifyJS
+[laravel mix]: https://github.com/JeffreyWay/laravel-mix
+[nuxt.js]: https://github.com/nuxt/nuxt.js
+[rxjs]: https://github.com/ReactiveX/rxjs
+[laravel]: https://github.com/laravel/laravel
+[grunt]: https://github.com/gruntjs/grunt
+[ionic]: https://github.com/ionic-team/ionic
 
 # Türkiye'de hangi şirketler hangi frontend teknolojilerini kullanıyor?
 
@@ -41,41 +56,41 @@
 | Bermuda             | İstanbul | http://bermuda.com.tr         | [React], [Redux], [Redux-thunk], [Node.js], [Webpack], [Gulp], [SCSS], [ESLint], [Prettier], [Bootstrap]                                                                         |
 | Bigoen              | İzmir    | https://bigoen.com            | [React], [React-native], [Next.js], [Node.js], [Mobx], [Webpack], [Gulp], [SCSS], [ESLint], [Prettier]                                                                           |
 | Bilgetech           | İstanbul | http://bilgetech.com.tr       | [Angular], [Typescript], [Node.js], [Webpack], [Gulp], Npm Scripts, [Karma], [Jasmine], [SCSS], [Stylus], [Pug], [TSLint]                                                        |
-| BOdev Office        | İstanbul | https://bodevoffice.com       | [Vue.js], [Angular].js, [JQuery], [SCSS], , [Webpack], [Gulp]                                                                                                                    |
-| Brickly             | İstanbul | http://brickly.io             | [React], [Redux], Node js, [Webpack], Less (isomorphic style), [Enzyme], [Jest], [Flow], [Gulp]                                                                                  |
-| Clevel              | İstanbul | http://clevel.team            | [Vue.js], Vuex, [Node.js], [Webpack], [Gulp], [Typescript], SASS, [ESLint], WebGL, Canvas                                                                                        |
-| Codespace           | İstanbul | https://codespacedev.com      | [Angular], RxJS,[React], [Redux], [Node.js], GraphQL, Apollo, [Typescript], [Webpack], [Jest], [Enzyme], [Prettier]                                                              |
-| Emlakjet.com        | İstanbul | http://emlakjet.com           | [Angular],[React], [Redux], ImmutableJS, [Lodash], [Webpack], [Browserify], [Gulp], [Stylus]                                                                                     |
-| Enpies.com          | İstanbul | https://enpies.com            | [React], [Redux], [Webpack], UglifyJS, [SCSS]                                                                                                                                    |
-| Epigra              | İstanbul | https://epigra.com            | [Vue.js],[React], [JQuery], [Node.js], Laravel Mix, [Webpack], [Gulp], [Bootstrap], [SCSS]                                                                                       |
-| Fabrikod            | İstanbul | http://fabrikod.com/          | [Vue.js], Nuxt.JS , Laravel, [Webpack], [Gulp], [Bootstrap], [SCSS], [Node.js]                                                                                                   |
-| Finartz             | İstanbul | https://finartz.com           | [Vue.js], Vuex, [Webpack], [Gulp] , UglifyJS, [SCSS], [Typescript]                                                                                                               |
-| Gaaraj              | İstanbul | https://gaaraj.com            | [JQuery], Grunt, [Gulp], [SCSS], LESS, [Angular]JS, [Webpack], [Bootstrap], Ionic                                                                                                |
-| GittiGidiyor        | İstanbul | https://gittigidiyor.com      | [React], [Styled-components], [Next.js], [Node.js], [Webpack], Apollo, GraphQL, Immutable.js, [Flow], [Jest], Testing-Library, Cypress                                           |
-| Hepsiburada         | İstanbul | https://hepsiburada.com       | [React], [Redux], [Saga], [Node.js], [Webpack], [Enzyme], [Saga], Immutable, [Typescript], Knockout, [Gulp], Bower, [SCSS]                                                       |
-| Hobium              | İstanbul | https://hobium.com            | [Vue.js], Vuex, [Lodash], [JQuery], [Node.js], [Webpack], [Gulp], Grunt, [SCSS]                                                                                                  |
+| BOdev Office        | İstanbul | https://bodevoffice.com       | [Vue.js], [Angular], [JQuery], [SCSS], [Webpack], [Gulp]                                                                                                                         |
+| Brickly             | İstanbul | http://brickly.io             | [React], [Redux], [Node.js], [Webpack], [LESS] (isomorphic style), [Enzyme], [Jest], [Flow], [Gulp]                                                                              |
+| Clevel              | İstanbul | http://clevel.team            | [Vue.js], [Vuex], [Node.js], [Webpack], [Gulp], [Typescript], [SASS], [ESLint], [WebGL], [Canvas]                                                                                |
+| Codespace           | İstanbul | https://codespacedev.com      | [Angular], [RxJS],[React], [Redux], [Node.js], [GraphQL], [Apollo Client], [Typescript], [Webpack], [Jest], [Enzyme], [Prettier]                                                 |
+| Emlakjet.com        | İstanbul | http://emlakjet.com           | [Angular],[React], [Redux], [Immutable.js], [Lodash], [Webpack], [Browserify], [Gulp], [Stylus]                                                                                  |
+| Enpies.com          | İstanbul | https://enpies.com            | [React], [Redux], [Webpack], [UglifyJS], [SCSS]                                                                                                                                  |
+| Epigra              | İstanbul | https://epigra.com            | [Vue.js],[React], [JQuery], [Node.js], [Laravel Mix], [Webpack], [Gulp], [Bootstrap], [SCSS]                                                                                     |
+| Fabrikod            | İstanbul | http://fabrikod.com/          | [Vue.js], [Nuxt.js] , [Laravel], [Webpack], [Gulp], [Bootstrap], [SCSS], [Node.js]                                                                                               |
+| Finartz             | İstanbul | https://finartz.com           | [Vue.js], [Vuex], [Webpack], [Gulp] , [UglifyJS], [SCSS], [Typescript]                                                                                                           |
+| Gaaraj              | İstanbul | https://gaaraj.com            | [JQuery], [Grunt], [Gulp], [SCSS], [LESS], [Angular], [Webpack], [Bootstrap], [Ionic]                                                                                            |
+| GittiGidiyor        | İstanbul | https://gittigidiyor.com      | [React], [Styled-components], [Next.js], [Node.js], [Webpack], [Apollo Client], [GraphQL], [Immutable.js], [Flow], [Jest], Testing-Library, Cypress                              |
+| Hepsiburada         | İstanbul | https://hepsiburada.com       | [React], [Redux], [Saga], [Node.js], [Webpack], [Enzyme], [Saga], [Immutable.js], [Typescript], Knockout, [Gulp], Bower, [SCSS]                                                  |
+| Hobium              | İstanbul | https://hobium.com            | [Vue.js], [Vuex], [Lodash], [JQuery], [Node.js], [Webpack], [Gulp], [Grunt], [SCSS]                                                                                              |
 | House of Apps       | İstanbul | https://houseofapps.com       | Django Templates, [React-native], ReactJS, [Mobx], [JQuery], VueJS                                                                                                               |
-| iyzico              | İstanbul | https://iyzico.com            | [React], [Redux], [Node.js], [Webpack], GraphQL, Apollo Client, [Styled-components], [Jest], [Enzyme], Flow, [Prettier]                                                          |
+| iyzico              | İstanbul | https://iyzico.com            | [React], [Redux], [Node.js], [Webpack], [GraphQL], [Apollo Client], [Styled-components], [Jest], [Enzyme], Flow, [Prettier]                                                      |
 | Kunduz              | İstanbul | https://kunduz.com            | [React], [Typescript], [Webpack], [SCSS], [Bootstrap], [Prettier]                                                                                                                |
 | Macellan            | İstanbul | https://macellan.net          | [Vue.js],[React], [React-native], [Node.js], [Webpack], [Gulp], [ESLint], [JQuery]                                                                                               |
-| MonoFor, Inc        | İstanbul | https://monofor.com           | VueJS, Vuex, [Node.js], [Webpack], [ESLint], [SCSS], [Prettier], [JQuery]                                                                                                        |
+| MonoFor, Inc        | İstanbul | https://monofor.com           | VueJS, [Vuex], [Node.js], [Webpack], [ESLint], [SCSS], [Prettier], [JQuery]                                                                                                      |
 | Nuevo Softwarehouse | İstanbul | http://www.nuevo.com.tr       | [React], [Typescript], [Redux], [Gulp], [Webpack], [Styled-components], [SCSS], [JQuery], [TSLint], [ESLint]                                                                     |
-| omg!medya           | İstanbul | http://omgmedya.com           | [Vue.js],[React], [Gulp], [Webpack], Turbolinks, UglifyJS, [JQuery]                                                                                                              |
-| Otel.com            | İstanbul | https://otel.com              | [React], Flux, [Gulp], [Browserify], UglifyJS, JsHint, LESS, [JQuery]                                                                                                            |
+| omg!medya           | İstanbul | http://omgmedya.com           | [Vue.js],[React], [Gulp], [Webpack], Turbolinks, [UglifyJS], [JQuery]                                                                                                            |
+| Otel.com            | İstanbul | https://otel.com              | [React], Flux, [Gulp], [Browserify], [UglifyJS], JsHint, [LESS], [JQuery]                                                                                                        |
 | Pankod              | İstanbul | http://www.pankod.com         | [Typescript],[React], [React-native], [Redux], [Next.js], Svelte, Bit, [SCSS], Styled Components, [Webpack], [Jest] & [Enzyme], [ESLint]                                         |
 | Pembe Panjur        | İstanbul | http://www.pembepanjur.com    | [Vue.js]                                                                                                                                                                         |
-| Protel              | İstanbul | http://protel.com.tr          | [React], [Redux], Vue (Vuex), [Webpack], Rollup, GraphQL, GraphQL.js, Sass, CoffeeScript, Ruby on Rails, [ESLint]                                                                |
-| Put.io              | İstanbul | https://put.io                | [React], [Redux], ImmutableJS, [Webpack], [Enzyme], [Jest], LESS                                                                                                                 |
-| Related Digital     | İstanbul | http://www.relateddigital.com | Npm, [Angular].js, [Gulp], Bower, [SCSS], Highcharts, CK Editor                                                                                                                  |
-| Scotty              | İstanbul | https://scotty.app            | [React], [React-native], [Redux], GraphQL, Apollo Client, [Node.js], [Webpack], [Styled-components], [Jest], [Enzyme], [ESLint]                                                  |
+| Protel              | İstanbul | http://protel.com.tr          | [React], [Redux], Vue ([Vuex]), [Webpack], Rollup, [GraphQL], [GraphQL].js, [SASS], CoffeeScript, Ruby on Rails, [ESLint]                                                        |
+| Put.io              | İstanbul | https://put.io                | [React], [Redux], [Immutable.js], [Webpack], [Enzyme], [Jest], [LESS]                                                                                                            |
+| Related Digital     | İstanbul | http://www.relateddigital.com | Npm, [Angular], [Gulp], Bower, [SCSS], Highcharts, CK Editor                                                                                                                     |
+| Scotty              | İstanbul | https://scotty.app            | [React], [React-native], [Redux], [GraphQL], [Apollo Client], [Node.js], [Webpack], [Styled-components], [Jest], [Enzyme], [ESLint]                                              |
 | Segmentify          | İstanbul | https://segmentify.com        | [React], [Redux], Bower, [SCSS], [Webpack], [Node.js], [ESLint]                                                                                                                  |
-| Smartiks            | İstanbul | https://www.smartiks.com.tr/  | [Vue.js](Vuex), Nuxt.js, [SCSS](CSS3), HTML5, GraphQL, Apollo Client, React Native ([Redux]), mxGraph, [Webpack]                                                                 |
-| T2                  | Ankara   | http://www.t2.com.tr/         | [React], [React-native], React Templates, [Redux], Jumpsuit, [Webpack], [Angular], [JQuery], [Bootstrap], LESS, [SCSS], [Enzyme], JSF, Primefaces, PrimeNG, Vaadin               |
+| Smartiks            | İstanbul | https://www.smartiks.com.tr/  | [Vue.js]([Vuex]), Nuxt.js, [SCSS](CSS3), HTML5, [GraphQL], [Apollo Client], React Native ([Redux]), mxGraph, [Webpack]                                                           |
+| T2                  | Ankara   | http://www.t2.com.tr/         | [React], [React-native], React Templates, [Redux], Jumpsuit, [Webpack], [Angular], [JQuery], [Bootstrap], [LESS], [SCSS], [Enzyme], JSF, Primefaces, PrimeNG, Vaadin             |
 | Trendyol            | İstanbul | https://m.trendyol.com/       | [PuzzleJs](https://github.com/puzzle-js/puzzle-js), [Typescript],[React], [SCSS], [Webpack], [ESLint], [Jest], [Enzyme], Sinon, Chai, Mocha                                      |
 | Twentify            | İstanbul | http://www.twentify.com/      | [React], [Redux], [Saga], [SCSS], [Webpack], [ESLint]                                                                                                                            |
-| Vispera             | İstanbul | http://vispera.co/            | [React], [Redux], [Saga], [Redux-thunk], [Webpack], SASS                                                                                                                         |
+| Vispera             | İstanbul | http://vispera.co/            | [React], [Redux], [Saga], [Redux-thunk], [Webpack], [SASS]                                                                                                                       |
 | Webridge            | İzmir    | http://webridge.co            | [Node.js], Sails,[React], [React-native], [Redux], [Webpack], [SCSS], [Lodash], Axios                                                                                            |
-| Yemeksepeti         | İstanbul | https://yemek.com             | [React], [Redux], [JQuery], [Node.js], [Webpack], Sass                                                                                                                           |
+| Yemeksepeti         | İstanbul | https://yemek.com             | [React], [Redux], [JQuery], [Node.js], [Webpack], [SASS]                                                                                                                         |
 
 ## Uyarı!
 
