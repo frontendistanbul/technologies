@@ -1,17 +1,17 @@
 [react]: https://github.com/facebook/react
-[react-native]: (https://github.com/facebook/react-native)
-[redux]: (https://github.com/reduxjs/redux)
-[next.js]: (https://github.com/zeit/next.js)
-[mobx]: (https://github.com/mobxjs/mobx)
-[scss]: (https://github.com/sass/sass)
-[gulp]: (https://github.com/gulpjs/gulp)
-[nodejs]: (https://github.com/nodejs/node)
-[eslint]: (https://github.com/eslint/eslint)
-[prettier]: (https://github.com/prettier/prettier)
-[saga]: (https://github.com/redux-saga/redux-saga)
-[webpack]: (https://github.com/webpack/webpack)
-[postcss]: (https://github.com/postcss/postcss)
-[Node.JS]:(https://github.com/node.js/node)
+[react-native]: https://github.com/facebook/react-native
+[redux]: https://github.com/reduxjs/redux
+[next.js]: https://github.com/zeit/next.js
+[mobx]: https://github.com/mobxjs/mobx
+[scss]: https://github.com/sass/sass
+[gulp]: https://github.com/gulpjs/gulp
+[eslint]: https://github.com/eslint/eslint
+[prettier]: https://github.com/prettier/prettier
+[saga]: https://github.com/redux-saga/redux-saga
+[webpack]: https://github.com/webpack/webpack
+[postcss]: https://github.com/postcss/postcss
+[node.js]: https://github.com/nodejs/node
+
 # Türkiye'de hangi şirketler hangi frontend teknolojilerini kullanıyor?
 
 | Şirket Adı          | Şehir    | Web Adresi                    | Kullandığı Frontend Teknolojileri                                                                                                                                                                                                    |
