@@ -65,6 +65,9 @@
 [mocha]: https://github.com/mochajs/mocha
 [sails]: https://github.com/balderdashy/sails
 [axios]: https://github.com/axios/axios
+[primefaces]: https://github.com/primefaces/primefaces
+[primeng]: https://github.com/primefaces/primeng
+[vaadin]: https://github.com/vaadin/
 
 # Türkiye'de hangi şirketler hangi frontend teknolojilerini kullanıyor?
 
@@ -90,7 +93,7 @@
 | GittiGidiyor        | İstanbul | https://gittigidiyor.com      | [React], [Styled-components], [Next.js], [Node.js], [Webpack], [Apollo Client], [GraphQL], [Immutable.js], [Flow], [Jest], [Testing-Library], [Cypress]                          |
 | Hepsiburada         | İstanbul | https://hepsiburada.com       | [React], [Redux], [Saga], [Node.js], [Webpack], [Enzyme], [Saga], [Immutable.js], [Typescript], [Knockout], [Gulp], [Bower], [SCSS]                                              |
 | Hobium              | İstanbul | https://hobium.com            | [Vue.js], [Vuex], [Lodash], [JQuery], [Node.js], [Webpack], [Gulp], [Grunt], [SCSS]                                                                                              |
-| House of Apps       | İstanbul | https://houseofapps.com       | Django Templates, [React-native], [React], [Mobx], [JQuery], VueJS                                                                                                               |
+| House of Apps       | İstanbul | https://houseofapps.com       | Django Templates, [React-native], [React], [Mobx], [JQuery], [Vue.js]                                                                                                            |
 | iyzico              | İstanbul | https://iyzico.com            | [React], [Redux], [Node.js], [Webpack], [GraphQL], [Apollo Client], [Styled-components], [Jest], [Enzyme], [Flow], [Prettier]                                                    |
 | Kunduz              | İstanbul | https://kunduz.com            | [React], [Typescript], [Webpack], [SCSS], [Bootstrap], [Prettier]                                                                                                                |
 | Macellan            | İstanbul | https://macellan.net          | [Vue.js],[React], [React-native], [Node.js], [Webpack], [Gulp], [ESLint], [JQuery]                                                                                               |
@@ -106,7 +109,7 @@
 | Scotty              | İstanbul | https://scotty.app            | [React], [React-native], [Redux], [GraphQL], [Apollo Client], [Node.js], [Webpack], [Styled-components], [Jest], [Enzyme], [ESLint]                                              |
 | Segmentify          | İstanbul | https://segmentify.com        | [React], [Redux], [Bower], [SCSS], [Webpack], [Node.js], [ESLint]                                                                                                                |
 | Smartiks            | İstanbul | https://www.smartiks.com.tr/  | [Vue.js], [Vuex], [Nuxt.js], [SCSS](CSS3), HTML5, [GraphQL], [Apollo Client], [React-Native], [Redux], [mxGraph], [Webpack]                                                      |
-| T2                  | Ankara   | http://www.t2.com.tr/         | [React], [React-native], React Templates, [Redux], Jumpsuit, [Webpack], [Angular], [JQuery], [Bootstrap], [LESS], [SCSS], [Enzyme], JSF, Primefaces, PrimeNG, Vaadin             |
+| T2                  | Ankara   | http://www.t2.com.tr/         | [React], [React-native], React Templates, [Redux], Jumpsuit, [Webpack], [Angular], [JQuery], [Bootstrap], [LESS], [SCSS], [Enzyme], JSF, [Primefaces], [PrimeNG], [Vaadin]       |
 | Trendyol            | İstanbul | https://m.trendyol.com/       | [PuzzleJs], [Typescript],[React], [SCSS], [Webpack], [ESLint], [Jest], [Enzyme], [Sinon], [Chai], [Mocha]                                                                        |
 | Twentify            | İstanbul | http://www.twentify.com/      | [React], [Redux], [Saga], [SCSS], [Webpack], [ESLint]                                                                                                                            |
 | Vispera             | İstanbul | http://vispera.co/            | [React], [Redux], [Saga], [Redux-thunk], [Webpack], [SASS]                                                                                                                       |
